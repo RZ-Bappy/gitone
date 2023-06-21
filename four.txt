@@ -1,3 +1,10 @@
 fghfgh
+<<<<<<< HEAD
 
 dvelop
+=======
+tghygfdhtgh
+fdghcfgh
+
+Sdfsdf
+>>>>>>> staging
